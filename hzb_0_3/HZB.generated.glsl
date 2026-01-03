@@ -6,7 +6,7 @@
 //
 // Goal:
 // - Provide a readable GLSL version of the exact code path used by the RenderDoc
-//   decompile in `hzb/HZB.rdc.glsl`, cross-referenced to UE's `hzb/HZB.usf`.
+//   decompile in `hzb_0_3/HZB.rdc.glsl`, cross-referenced to UE's `hzb_0_3/HZB.usf`.
 //
 // What this shader does:
 // - Builds a Hierarchical Z-Buffer (HZB) pyramid for 4 mip levels in one dispatch:
